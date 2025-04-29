@@ -4,6 +4,10 @@
 ---
 ### Any Android TV that supports ADB (Android Debug Bridge) over IP should be compatible with this app. (tested on Xiaomi Mi Box)
 ---
+
+# [**_Download Executable_**](https://github.com/SergioMezzabotta/AndroidTVControllerForPc/releases)
+
+---
 ## In-app images:
 
 ![image](https://github.com/user-attachments/assets/6faf6767-30d3-4788-ab92-2af522152d15)
